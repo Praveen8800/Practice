@@ -1,3 +1,4 @@
 # Practice
 This is my first repository
-AUthor- Praveen Nagar
+<br>
+Author- Praveen Nagar
